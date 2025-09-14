@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @CheekonMTN
+/src/backend/database.py      @CheekonMTN
+/src/backend/routers/auth.py  @CheekonMTN
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @CheekonMTN
